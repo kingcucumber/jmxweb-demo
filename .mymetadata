@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JmxWeb"
+  id="myeclipse.1346659520046"
+  context-root="/JmxWeb"
+  j2ee-spec="6.0"
+  archive="JmxWeb.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
